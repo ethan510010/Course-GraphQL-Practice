@@ -1,0 +1,12 @@
+// https://ithelp.ithome.com.tw/articles/10197028
+{
+  "presets": [
+    "env"
+  ],
+  "env": {
+    "debug": {
+      "sourceMaps": "inline",
+      "retainLines": true
+    }
+  }
+}
